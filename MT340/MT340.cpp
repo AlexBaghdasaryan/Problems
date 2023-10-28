@@ -12,7 +12,7 @@ int main()
 	{
 		cout << "n="; cin >> n;
 	} 
-	while (n < 1);
+	while (n <= 1);
 
 	for (i = 1; i <= n; i++) 
 	{
